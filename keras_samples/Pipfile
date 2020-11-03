@@ -7,10 +7,10 @@ verify_ssl = true
 
 [packages]
 numpy = "*"
-tensorflow = "*"
 matplotlib = "*"
 keras = "*"
 h5py = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.8.1"
