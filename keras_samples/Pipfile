@@ -11,6 +11,7 @@ matplotlib = "*"
 keras = "*"
 h5py = "*"
 tensorflow = "*"
+argparse = "*"
 
 [requires]
 python_version = "3.8.1"
